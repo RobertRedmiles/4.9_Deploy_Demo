@@ -2,11 +2,11 @@ const { Sequelize } = require("sequelize");
 
 // DB Connection Configuration
 const sequelize = new Sequelize(
-    "ecommerce_a3y2", 
-    "ecommerce_a3y2_user", 
+    "ecommerce_6uny", 
+    "ecommerce_6uny_user", 
     "u6GzLXGX9gja0QLR0YV9FCkaUSQBT5kh", 
     {
-        host: "dpg-ck55ai6ru70s738ff7qg-a",
+        host: "dpg-ck55aheg2bec73a7lbmg-a",
         dialect: "postgres",
         dialectOptions: {
             ssl: {
