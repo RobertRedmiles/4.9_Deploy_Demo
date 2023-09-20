@@ -4,7 +4,7 @@ const { Sequelize } = require("sequelize");
 const sequelize = new Sequelize(
     "ecommerce_6uny", 
     "ecommerce_6uny_user", 
-    "u6GzLXGX9gja0QLR0YV9FCkaUSQBT5kh", 
+    "NpGLJ1tdpV0OZAp9RWhoDYEwf77b7wzF", 
     {
         host: "dpg-ck55aheg2bec73a7lbmg-a",
         dialect: "postgres",
